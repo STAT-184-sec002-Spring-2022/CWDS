@@ -1,3 +1,3 @@
 # CWDS
-Covid Waste Water Detecting System 
+Covid Wastewater Detecting System 
 
