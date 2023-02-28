@@ -1,3 +1,3 @@
 # CWDS
-the is our ds44 project  daddy
+Covid Waste Water Detecting System 
 
